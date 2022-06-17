@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Hey Yo</title>
@@ -10,4 +10,3 @@
 
 </body>
 </html>
-
