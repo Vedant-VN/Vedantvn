@@ -11,4 +11,4 @@
 </body>
 </html>
 
-[Website Displays At : Clicl Here](https://vedant-vn.github.io/Vedantvn/)
+[Website Displays At : Click Here](https://vedant-vn.github.io/Vedantvn/)
